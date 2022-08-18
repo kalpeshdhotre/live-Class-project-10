@@ -1,0 +1,3 @@
+- header width not same as body
+- main section locked at center
+- 
